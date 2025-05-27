@@ -51,6 +51,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ExoticLure37&show_icons=true&theme=github_dark&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ExoticLure37&theme=github-dark&hide_border=true"/>
+  <br/>
+  ![Visitor Count](https://komarev.com/ghpvc/?username=ExoticLure37&color=blue&style=flat)
 </p>
 
 ---
