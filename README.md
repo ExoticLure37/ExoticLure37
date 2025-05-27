@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Aryan Maurya
 
+![Visitor Count](https://komarev.com/ghpvc/?username=ExoticLure37&color=blue&style=flat)
+
 🎓 3rd Year Computer Science student at MNNIT Allahabad  
 💡 Passionate about full-stack development & competitive programming  
 🌱 Currently building scalable web apps using MERN stack  
@@ -24,13 +26,14 @@
   Online medical appointment platform with role-based dashboards and authentication.  
 
 - 📝 [**BlogSphere**](https://github.com/ExoticLure37/BLOG_complete)  
-  Blogging web app with multimedia support and responsive design.  
+  Blogging web app with multimedia support and responsive design.
+  
+- 📰 [**News App**](https://github.com/ExoticLure37/NEWS-Application)  
+  React app fetching live news from public APIs.
 
 - 🔐 [**Password Generator**](https://github.com/ExoticLure37/password-generator-)  
   Tool to generate strong, secure passwords.  
 
-- 📰 [**News App**](https://github.com/ExoticLure37/NEWS-Application)  
-  React app fetching live news from public APIs.
 
 ---
 
@@ -51,8 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ExoticLure37&show_icons=true&theme=github_dark&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ExoticLure37&theme=github-dark&hide_border=true"/>
-  <br/>
-  ![Visitor Count](https://komarev.com/ghpvc/?username=ExoticLure37&color=blue&style=flat)
 </p>
 
 ---
