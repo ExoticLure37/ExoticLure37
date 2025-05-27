@@ -66,10 +66,9 @@
 
 ## 🔗 Coding Profiles
 
-- [LeetCode](https://leetcode.com/)  
-- [Codeforces](https://codeforces.com/profile/)  
-- [CodeChef](https://www.codechef.com/users/)  
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/)  
+- [LeetCode](https://leetcode.com/ZXLdtXwZOh)  
+- [Codeforces](https://codeforces.com/profile/aryan_maurya027)  
+- [CodeChef](https://www.codechef.com/users/rukarya)   
 
 ---
 
