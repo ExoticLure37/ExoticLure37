@@ -37,18 +37,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- ⭐ **4⭐ Coder** on CodeChef (Max Rating: 1816)  
-- 🛡️ **Knight** on LeetCode (Max Rating: 1858)
-- 🧠 **Specialist** on Codeforces (Max Rating: 1405)  
-- 🥇 Global Rank **92** among 25k+ in CodeChef Starters 167  
-- 🏅 Top 10 in **Softathalon’24**, MNNIT Avishkar  
-- 💡 Rank **42** in **Codespark’24**, MNNIT Avishkar  
-- 🌍 Global Rank **300** in CodeChef Starters 131  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
