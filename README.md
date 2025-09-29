@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ExoticLure37&color=blue&style=flat)
 
-🎓 3rd Year Computer Science student at MNNIT Allahabad  
+🎓 Final Year Computer Science student at MNNIT Allahabad  
 💡 Passionate about full-stack development & competitive programming  
 🌱 Currently building scalable web apps using MERN stack  
 📈 Improving my DSA & CP skills on platforms like CodeChef and LeetCode  
