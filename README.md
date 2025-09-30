@@ -58,7 +58,7 @@
 
 ## 🔗 Coding Profiles
 
-- [LeetCode](https://leetcode.com/ZXLdtXwZOh)  
+- [LeetCode](https://leetcode.com/ZXLdtXwZ)  
 - [Codeforces](https://codeforces.com/profile/aryan_maurya027)  
 - [CodeChef](https://www.codechef.com/users/rukarya)   
 
