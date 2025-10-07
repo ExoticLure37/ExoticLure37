@@ -36,37 +36,9 @@
 
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExoticLure37&show_icons=true&theme=github_dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ExoticLure37&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 🧠 Areas of Interest
-
-- Data Structures & Algorithms  
-- Operating Systems  
-- Object-Oriented Programming  
-- Databases
-
----
-
-## 🔗 Coding Profiles
-
-- [LeetCode](https://leetcode.com/ZXLdtXwZ)  
-- [Codeforces](https://codeforces.com/profile/aryan_maurya027)  
-- [CodeChef](https://www.codechef.com/users/rukarya)   
-
----
-
 ## 📫 Contact Me
 
-- 📍 MNNIT Allahabad  
+- 📍 [Email](aryanamih041@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-maurya)  
 - ✉️ [Email](mailto:aryanamih041@gmail.com)
 
