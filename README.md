@@ -38,7 +38,6 @@
 ---
 ## 📫 Contact Me
 
-- 📍 [Email](aryanamih041@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-maurya)  
 - ✉️ [Email](mailto:aryanamih041@gmail.com)
 
